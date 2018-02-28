@@ -156,5 +156,12 @@ public class AlgorithmApplicationTests {
         sort(a, i + 1, hight);
     }
 
+    /**
+     * 归并排序
+     */
+    public void mergeSolt(){
+        initArray();
+    }
+
 
 }
